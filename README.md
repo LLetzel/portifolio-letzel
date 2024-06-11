@@ -24,7 +24,7 @@ O site é dividido em três seções principais, cada uma representada por um wi
 
 ###  Sobre mim
 
-Sou um estudante de desenvolvimento web de 16 anos, **apaixonado por criar experiências interativas e visuais**. Me dedico a aprender novas tecnologias e aperfeiçoar minhas habilidades para construir projetos **inovadoros e funcionais**.
+Sou um estudante de desenvolvimento web de 16 anos, **fascinado por criar experiências interativas e visuais**. Me dedico a aprender novas tecnologias e aperfeiçoar minhas habilidades para construir projetos **inovadores e funcionais**.
 
 ###  Habilidades
 
